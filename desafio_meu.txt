@@ -1,0 +1,12 @@
+foi verificado os dados removidas todas colunas de ligação
+alterado os tipos certos e colocado o decimal fixo
+para o salario.
+foi verificado que o unico funcionario com nulos no Super_ssn é
+o head da empresa e tirando ele não ha nenhum funcionario sem 
+gerente e nenhum departamento tambem
+foi tranformado o numero de horas para inteiro, foi realizada 
+a separação da coluna endereço em Number,Street,City e State
+foi realizada a mescla da coluna employee com a departament 
+com o externa esquerda
+e foi removida as colunas Super_ssn, Dno, Mgr_start_date e Dept_create_date
+
